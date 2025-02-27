@@ -1,0 +1,9 @@
+RUNTIME_DATA_FILE_BEGIN(DIR_PATH(Character, DummySkill.xml))
+
+RUNTIME_DATA_TYPE_BEGIN(DummySkill, "DummySkillList.DummySkill")
+	RUNTIME_DATA_PROPERTY(Int32, Case, "Case")
+	RUNTIME_DATA_PROPERTY(Int32, Property, "Property")
+	RUNTIME_DATA_PROPERTY(Int32, SkillIndex, "SkillIndex")
+RUNTIME_DATA_TYPE_END(DummySkill)
+
+RUNTIME_DATA_FILE_END

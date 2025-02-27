@@ -1,0 +1,742 @@
+<?xml version="1.0" ?>
+<Dungeon DungeonIndex="4362" StartKillMobList="">
+	<TriggerGroup Index="1">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="1"/>
+	</TriggerGroup>
+	<TriggerGroup Index="2">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="2"/>
+	</TriggerGroup>
+	<TriggerGroup Index="3">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="3"/>
+	</TriggerGroup>
+	<TriggerGroup Index="4">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="4"/>
+	</TriggerGroup>
+	<TriggerGroup Index="5">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="5"/>
+	</TriggerGroup>
+	<TriggerGroup Index="6">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="6"/>
+	</TriggerGroup>
+	<TriggerGroup Index="7">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="7"/>
+	</TriggerGroup>
+	<TriggerGroup Index="8">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="8"/>
+	</TriggerGroup>
+	<TriggerGroup Index="9">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="9"/>
+	</TriggerGroup>
+	<TriggerGroup Index="10">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="10,3,4,5,6,7,8,9" NpcIndex="-1" ActionGroupIndex="10"/>
+	</TriggerGroup>
+	<TriggerGroup Index="11">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="11"/>
+	</TriggerGroup>
+	<TriggerGroup Index="12">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="12"/>
+	</TriggerGroup>
+	<TriggerGroup Index="13">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="13"/>
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="14"/>
+	</TriggerGroup>
+	<TriggerGroup Index="14">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="17"/>
+	</TriggerGroup>
+	<TriggerGroup Index="15">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="18"/>
+	</TriggerGroup>
+	<TriggerGroup Index="16">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="19"/>
+	</TriggerGroup>
+	<TriggerGroup Index="17">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="20"/>
+	</TriggerGroup>
+	<TriggerGroup Index="18">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="21"/>
+	</TriggerGroup>
+	<TriggerGroup Index="19">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="22"/>
+	</TriggerGroup>
+	<TriggerGroup Index="20">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="23"/>
+	</TriggerGroup>
+	<TriggerGroup Index="21">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="24"/>
+	</TriggerGroup>
+	<TriggerGroup Index="22">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="25"/>
+	</TriggerGroup>
+	<TriggerGroup Index="23">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="26"/>
+	</TriggerGroup>
+	<TriggerGroup Index="24">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="27"/>
+	</TriggerGroup>
+	<TriggerGroup Index="25">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="15,16,17,18,19,20,21,22,23,24,25,26" NpcIndex="-1" ActionGroupIndex="28"/>
+	</TriggerGroup>
+	<TriggerGroup Index="26">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="15"/>
+	</TriggerGroup>
+	<TriggerGroup Index="27">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="16"/>
+	</TriggerGroup>
+	<TriggerGroup Index="28">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="29"/>
+	</TriggerGroup>
+	<TriggerGroup Index="29">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="30"/>
+	</TriggerGroup>
+	<TriggerGroup Index="30">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="31"/>
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="33"/>
+	</TriggerGroup>
+	<TriggerGroup Index="31">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="32"/>
+	</TriggerGroup>
+	<TriggerGroup Index="32">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="34"/>
+	</TriggerGroup>
+	<TriggerGroup Index="33">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="35"/>
+	</TriggerGroup>
+	<TriggerGroup Index="34">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="36"/>
+	</TriggerGroup>
+	<TriggerGroup Index="35">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="37"/>
+	</TriggerGroup>
+	<TriggerGroup Index="36">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="38"/>
+	</TriggerGroup>
+	<TriggerGroup Index="37">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="39"/>
+	</TriggerGroup>
+	<TriggerGroup Index="38">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="40"/>
+	</TriggerGroup>
+	<TriggerGroup Index="39">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="41"/>
+	</TriggerGroup>
+	<TriggerGroup Index="40">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="42"/>
+	</TriggerGroup>
+	<TriggerGroup Index="41">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="34,35,36,37,38,39,40,41,42,43" NpcIndex="-1" ActionGroupIndex="43"/>
+	</TriggerGroup>
+	<TriggerGroup Index="42">
+		<Trigger Type="1" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="44"/>
+	</TriggerGroup>
+	<TriggerGroup Index="43">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="45"/>
+	</TriggerGroup>
+	<TriggerGroup Index="44">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="46"/>
+	</TriggerGroup>
+	<TriggerGroup Index="45">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="47"/>
+	</TriggerGroup>
+	<TriggerGroup Index="46">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="48"/>
+	</TriggerGroup>
+	<TriggerGroup Index="47">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="51"/>
+	</TriggerGroup>
+	<TriggerGroup Index="48">
+		<Trigger Type="1" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="52"/>
+	</TriggerGroup>
+	<TriggerGroup Index="49">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="53"/>
+	</TriggerGroup>
+	<TriggerGroup Index="50">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="50"/>
+	</TriggerGroup>
+	<TriggerGroup Index="51">
+		<Trigger Type="2" LiveMobIndexList="" DeadMobIndexList="" NpcIndex="-1" ActionGroupIndex="49"/>
+	</TriggerGroup>
+	<ActionGroup Index="1">
+		<Action Delay="1800" TargetMobIndex="1" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="2">
+		<Action Delay="1000" TargetMobIndex="2" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="3" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="4" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="5" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="6" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="7" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="8" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="9" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1500" TargetMobIndex="10" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="3">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="4">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="5">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="6">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="7">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="8">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="9">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="10">
+		<Action Delay="1000" TargetMobIndex="11" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="11">
+		<Action Delay="350" TargetMobIndex="12" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="12">
+		<Action Delay="1500" TargetMobIndex="13" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="13">
+		<Action Delay="1300" TargetMobIndex="14" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="14">
+		<Action Delay="1000" TargetMobIndex="27" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="28" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="15">
+		<Action Delay="1000" TargetMobIndex="15" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="16" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="17" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="18" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="19" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="20" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="21" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="22" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="23" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="24" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="25" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="26" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2500" TargetMobIndex="29" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="16">
+		<Action Delay="2000" TargetMobIndex="30" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="17">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="18">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="19">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="20">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="21">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="22">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="23">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="24">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="25">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="26">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="27">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="28">
+		<Action Delay="1000" TargetMobIndex="29" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="29">
+		<Action Delay="20000" TargetMobIndex="27" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="30">
+		<Action Delay="350" TargetMobIndex="31" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="27" TargetAction="4" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="31">
+		<Action Delay="1500" TargetMobIndex="32" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="32">
+		<Action Delay="1300" TargetMobIndex="33" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="33">
+		<Action Delay="1000" TargetMobIndex="34" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="35" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="36" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="37" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="38" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="39" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="40" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="41" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="42" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="43" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="34">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="35">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="36">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="37">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="38">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="39">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="40">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="41">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="42">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="43">
+		<Action Delay="2000" TargetMobIndex="45" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="44">
+		<Action Delay="2000" TargetMobIndex="47" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="48" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="49" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="50" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="51" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="52" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="53" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="54" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="55" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="56" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="45">
+		<Action Delay="1000" TargetMobIndex="47" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="48" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="49" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="50" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="51" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="52" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="53" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="54" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="55" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="56" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="350" TargetMobIndex="46" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="46">
+		<Action Delay="2000" TargetMobIndex="57" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="58" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="59" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="60" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="61" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="62" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="63" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="64" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="65" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="66" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="67" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="68" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="69" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="70" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="71" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="4000" TargetMobIndex="72" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="47">
+		<Action Delay="1000" TargetMobIndex="58" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="59" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="60" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="61" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="62" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="63" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="64" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="65" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="66" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="67" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="68" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="69" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="70" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="71" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="72" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="350" TargetMobIndex="73" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="48">
+		<Action Delay="1000" TargetMobIndex="100" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="102" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1800" TargetMobIndex="104" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="49">
+		<Action Delay="1000" TargetMobIndex="105" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="50">
+		<Action Delay="500" TargetMobIndex="101" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="51">
+		<Action Delay="2000" TargetMobIndex="80" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="81" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="82" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2000" TargetMobIndex="83" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2200" TargetMobIndex="84" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2200" TargetMobIndex="85" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2200" TargetMobIndex="86" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2200" TargetMobIndex="87" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2400" TargetMobIndex="88" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2400" TargetMobIndex="89" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2400" TargetMobIndex="90" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2400" TargetMobIndex="91" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2600" TargetMobIndex="92" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2600" TargetMobIndex="93" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2600" TargetMobIndex="94" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2600" TargetMobIndex="95" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2800" TargetMobIndex="96" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2800" TargetMobIndex="97" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2800" TargetMobIndex="98" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="2800" TargetMobIndex="99" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="3800" TargetMobIndex="75" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="52">
+		<Action Delay="1000" TargetMobIndex="80" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="81" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="82" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="83" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="84" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="85" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="86" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="87" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="88" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="89" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="90" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="91" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="92" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="93" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="94" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="95" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="96" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="97" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="98" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+		<Action Delay="1000" TargetMobIndex="99" TargetAction="2" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<ActionGroup Index="53">
+		<Action Delay="500" TargetMobIndex="103" TargetAction="1" TargetSpawnInterval="0" TargetSpawnCount="0"/>
+	</ActionGroup>
+	<MobDropPool MobSpeciesIndex="647">
+		<Item ItemID="1214" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="33.16000000000000000"/>
+		<Item ItemID="33556422" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="33.17000000000000000"/>
+		<Item ItemID="33556421" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="33.17000000000000000"/>
+		<Item ItemID="34081629" ItemOption="1" ItemDuration="0" OptionPoolID="0" Rate="0.50000000000000000"/>
+	</MobDropPool>
+	<MobDropPool MobSpeciesIndex="648">
+		<Item ItemID="33555319" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555320" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555321" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555322" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555323" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555324" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555325" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555326" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555327" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555328" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555329" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555330" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555331" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555332" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555333" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555334" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555335" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555336" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555337" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555338" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555339" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555340" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555341" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555342" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555343" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555344" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555345" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555346" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555795" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555796" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555797" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555798" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33557106" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33557107" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33557108" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33557109" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.04000000000000000"/>
+		<Item ItemID="33555312" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="3.10000000000000000"/>
+		<Item ItemID="33555313" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="3.10000000000000000"/>
+		<Item ItemID="33555314" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="3.10000000000000000"/>
+		<Item ItemID="33555315" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="3.10000000000000000"/>
+		<Item ItemID="33555316" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.55000000000000000"/>
+		<Item ItemID="33555317" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="1.55000000000000000"/>
+		<Item ItemID="33555318" ItemOption="0" ItemDuration="0" OptionPoolID="97" Rate="3.10000000000000000"/>
+		<Item ItemID="33556383" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556384" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556385" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556386" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556387" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556389" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556390" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556391" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556392" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556393" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556394" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556395" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556397" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556398" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556399" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556400" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556401" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556402" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556403" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556405" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556406" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556407" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556408" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556409" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556410" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556411" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556413" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556414" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556388" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556396" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556404" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556412" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33557110" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33557111" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33557112" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33557113" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.44000000000000000"/>
+		<Item ItemID="33556376" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="1.34000000000000000"/>
+		<Item ItemID="33556377" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="1.34000000000000000"/>
+		<Item ItemID="33556378" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="1.34000000000000000"/>
+		<Item ItemID="33556379" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="1.34000000000000000"/>
+		<Item ItemID="33556380" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.67000000000000000"/>
+		<Item ItemID="33556381" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="0.67000000000000000"/>
+		<Item ItemID="33556382" ItemOption="0" ItemDuration="0" OptionPoolID="106" Rate="1.34000000000000000"/>
+		<Item ItemID="33556264" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00400000000000000"/>
+		<Item ItemID="33555348" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00400000000000000"/>
+		<Item ItemID="33555349" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00400000000000000"/>
+		<Item ItemID="1216" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00050000000000000"/>
+		<Item ItemID="34081629" ItemOption="1" ItemDuration="0" OptionPoolID="0" Rate="0.50000000000000000"/>
+		<Item ItemID="33556421" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="6.02250000000001000"/>
+		<Item ItemID="1214" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="6.77250000000000000"/>
+		<Item ItemID="33556422" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="6.77250000000000000"/>
+	</MobDropPool>
+	<MobDropPool MobSpeciesIndex="649">
+		<Item ItemID="35128183" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128184" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128185" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128186" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128187" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128188" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128189" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128190" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128191" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128192" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128193" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128194" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128195" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128196" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128197" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128198" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128199" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128200" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128201" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128202" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128203" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128204" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128205" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128206" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128207" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128208" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128209" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128210" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128659" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128660" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128661" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128662" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35129970" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35129971" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35129972" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35129973" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.04000000000000000"/>
+		<Item ItemID="35128176" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="3.10000000000000000"/>
+		<Item ItemID="35128177" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="3.10000000000000000"/>
+		<Item ItemID="35128178" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="3.10000000000000000"/>
+		<Item ItemID="35128179" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="3.10000000000000000"/>
+		<Item ItemID="35128180" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.55000000000000000"/>
+		<Item ItemID="35128181" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="1.55000000000000000"/>
+		<Item ItemID="35128182" ItemOption="0" ItemDuration="0" OptionPoolID="99" Rate="3.10000000000000000"/>
+		<Item ItemID="33556383" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556384" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556385" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556386" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556387" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556389" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556390" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556391" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556392" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556393" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556394" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556395" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556397" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556398" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556399" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556400" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556401" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556402" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556403" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556405" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556406" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556407" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556408" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556409" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556410" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556411" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556413" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556414" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556388" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556396" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556404" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556412" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33557110" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33557111" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33557112" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33557113" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.44000000000000000"/>
+		<Item ItemID="33556376" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="1.34000000000000000"/>
+		<Item ItemID="33556377" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="1.34000000000000000"/>
+		<Item ItemID="33556378" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="1.34000000000000000"/>
+		<Item ItemID="33556379" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="1.34000000000000000"/>
+		<Item ItemID="33556380" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.67000000000000000"/>
+		<Item ItemID="33556381" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="0.67000000000000000"/>
+		<Item ItemID="33556382" ItemOption="0" ItemDuration="0" OptionPoolID="107" Rate="1.34000000000000000"/>
+		<Item ItemID="33556264" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00560000000000000"/>
+		<Item ItemID="33555348" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00560000000000000"/>
+		<Item ItemID="33555349" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00560000000000000"/>
+		<Item ItemID="1216" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00070000000000000"/>
+		<Item ItemID="4084" ItemOption="0" ItemDuration="0" OptionPoolID="58" Rate="0.00070000000000000"/>
+		<Item ItemID="33556579" ItemOption="0" ItemDuration="0" OptionPoolID="58" Rate="0.00035000000000000"/>
+		<Item ItemID="33556421" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="6.68715000000000000"/>
+		<Item ItemID="1214" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="6.68715000000000000"/>
+		<Item ItemID="33556422" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="6.68715000000000000"/>
+	</MobDropPool>
+	<MobDropPool MobSpeciesIndex="1177">
+		<Item ItemID="35128183" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128184" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128185" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128186" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128187" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128188" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128189" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128190" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128191" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128192" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128193" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128194" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128195" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128196" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128197" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128198" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128199" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128200" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128201" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128202" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128203" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128204" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128205" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128206" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128207" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128208" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128209" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128210" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128659" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128660" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128661" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128662" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35129970" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35129971" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35129972" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35129973" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.04000000000000000"/>
+		<Item ItemID="35128176" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="3.10000000000000000"/>
+		<Item ItemID="35128177" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="3.10000000000000000"/>
+		<Item ItemID="35128178" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="3.10000000000000000"/>
+		<Item ItemID="35128179" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="3.10000000000000000"/>
+		<Item ItemID="35128180" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.55000000000000000"/>
+		<Item ItemID="35128181" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="1.55000000000000000"/>
+		<Item ItemID="35128182" ItemOption="0" ItemDuration="0" OptionPoolID="100" Rate="3.10000000000000000"/>
+		<Item ItemID="33556383" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556384" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556385" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556386" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556387" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556389" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556390" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556391" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556392" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556393" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556394" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556395" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556397" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556398" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556399" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556400" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556401" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556402" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556403" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556405" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556406" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556407" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556408" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556409" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556410" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556411" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556413" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556414" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556388" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556396" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556404" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556412" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33557110" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33557111" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33557112" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33557113" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.44000000000000000"/>
+		<Item ItemID="33556376" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="1.34000000000000000"/>
+		<Item ItemID="33556377" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="1.34000000000000000"/>
+		<Item ItemID="33556378" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="1.34000000000000000"/>
+		<Item ItemID="33556379" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="1.34000000000000000"/>
+		<Item ItemID="33556380" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.67000000000000000"/>
+		<Item ItemID="33556381" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="0.67000000000000000"/>
+		<Item ItemID="33556382" ItemOption="0" ItemDuration="0" OptionPoolID="108" Rate="1.34000000000000000"/>
+		<Item ItemID="33556264" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00800000000000000"/>
+		<Item ItemID="33555348" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00800000000000000"/>
+		<Item ItemID="33555349" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00800000000000000"/>
+		<Item ItemID="33556433" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00200000000000000"/>
+		<Item ItemID="33556416" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00200000000000000"/>
+		<Item ItemID="33556417" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00200000000000000"/>
+		<Item ItemID="1216" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00100000000000000"/>
+		<Item ItemID="33556423" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.00050000000000000"/>
+		<Item ItemID="4084" ItemOption="0" ItemDuration="0" OptionPoolID="58" Rate="0.00100000000000000"/>
+		<Item ItemID="33556579" ItemOption="0" ItemDuration="0" OptionPoolID="58" Rate="0.00050000000000000"/>
+		<Item ItemID="1214" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="9.94850000000001000"/>
+		<Item ItemID="33556422" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="9.94850000000001000"/>
+		<Item ItemID="33556992" ItemOption="1" ItemDuration="0" OptionPoolID="0" Rate="0.15000000000000000"/>
+	</MobDropPool>
+	<MobDropPool MobSpeciesIndex="3396">
+		<Item ItemID="33556987" ItemOption="1" ItemDuration="0" OptionPoolID="0" Rate="50.00000000000000000"/>
+		<Item ItemID="33557993" ItemOption="3" ItemDuration="0" OptionPoolID="0" Rate="0.50000000000000000"/>
+	</MobDropPool>
+</Dungeon>

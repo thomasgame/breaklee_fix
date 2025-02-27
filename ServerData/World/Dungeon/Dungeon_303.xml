@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Dungeon DungeonIndex="303" StartKillMobList="">
+	<MobDropPool MobSpeciesIndex="647">
+		<Item ItemID="9" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="50.00000000000000000"/>
+		<Item ItemID="582" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="50.00000000000000000"/>
+	</MobDropPool>
+	<MobDropPool MobSpeciesIndex="648">
+		<Item ItemID="9" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="50.00000000000000000"/>
+		<Item ItemID="582" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="50.00000000000000000"/>
+	</MobDropPool>
+	<MobDropPool MobSpeciesIndex="649">
+		<Item ItemID="9" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="49.95000000000000000"/>
+		<Item ItemID="582" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="49.95000000000000000"/>
+		<Item ItemID="313" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.05000000000000000"/>
+		<Item ItemID="310" ItemOption="0" ItemDuration="0" OptionPoolID="0" Rate="0.05000000000000000"/>
+	</MobDropPool>
+</Dungeon>
